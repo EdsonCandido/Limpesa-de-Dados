@@ -5,13 +5,16 @@
 #### - Código utilizado para sua solução (excel, python, java, ...);
 #### - Arquivo final resultante da limpeza;
 
-**Começando as Alterações**
+
+**Facilitando a Visualização**
 
 ```sql
 /*CRIO UMA COLUNA COM O NOME ID, SENDO ELA AUTO INCREMENT*/
 ALTER TABLE `table 1` ADD `id` INT NOT NULL AUTO_INCREMENT FIRST, ADD PRIMARY KEY (`id`);
 ```
+
 **Limpeza dos Dados**
+
 ```sql
 /*VALORES ACIMA DE 100 SÃO SUBSTITUIDOS POR 100*/
 UPDATE `table 1` SET `COL 3`= 100 WHERE `COL 3`>100
