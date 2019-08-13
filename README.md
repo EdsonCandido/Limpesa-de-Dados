@@ -67,7 +67,7 @@ UPDATE `table 1` SET `COL 4`=77 WHERE `COL 4`='ee'
 ```
 ```sql
 /*SALVA OS DADOS EM UM .CSV*/
-SELECT * FROM`table 1` INTO OUTFILE 'C:/dev/Limpesa-de-Dados/output/BBC_Results_Lesson 1_clean.csv' 
+SELECT * FROM`table 1` INTO OUTFILE 'C:/dev/Limpeza-de-Dados/output/BBC_Results_Lesson 1_clean.csv' 
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'
 
 ```
