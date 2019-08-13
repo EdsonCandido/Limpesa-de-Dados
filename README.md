@@ -1,4 +1,4 @@
-# Limpesa de Dados
+# Limpeza de Dados
 ### Questão: Acesse os dados da pesquisa da [BBC da última aula](https://docs.google.com/spreadsheets/d/18yUpkEmTbVja4KUi2_JN8Y7QyPGzzJ_yRE_FrjS-a-A/edit#gid=0). Considere que a coluna timestamp não possuialores anômalos.
 ### Realize a limpeza de dados. Submeta a url de um projeto contendo: 
 
